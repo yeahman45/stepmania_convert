@@ -1,4 +1,4 @@
-# stepmania convert "Pump" ssc files to "Dance" ssc files
+  # python script to convert "Pump" ssc files to "Dance" ssc files
 
 - Download and install python : https://www.python.org/downloads/ 
 - Dowload the python script ```sm-convertor.py``` in this git repository
