@@ -3,7 +3,7 @@
 
 # yeahman
 
-import os, argparse, glob, tkinter, re
+import os, argparse, glob, re
 
 def split(word):
     return [char for char in word]
